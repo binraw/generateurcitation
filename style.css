@@ -1,0 +1,46 @@
+body{
+    background-color: #9F8DC3;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Silkscreen', cursive;
+    
+
+}
+
+#espace{
+    background-color: #211A44;
+    display: block;
+    width: 45%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top: 200px;
+    border-radius: 15px;
+    padding: 30px;
+}
+.citation{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    
+   
+    
+    
+}
+
+.generateur{
+    background-color: #5C5792;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto ;
+    width: 35%;
+    margin-top: 20px;
+    border-radius: 15px;
+    display: block;
+    color: white;
+    
+}
+.play{
+    text-align: center;
+    padding:10px;
+    
+}
